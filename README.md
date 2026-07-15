@@ -1,5 +1,3 @@
-##   <p align="center"> Kenta </p>
-
 ### About me:
 Fullstack Developer | Laravel • React • Next.js
 
